@@ -1,0 +1,7 @@
+{
+    "bootstrapServers": "1.kafka.adh:9092",
+    "groupId": "test-kafka-io",
+    "topic": "nb-EIP-AI-mas2aio_rc",
+    "sessionTimeoutMs": "10000",
+    "autoCommitEnabled": false
+ }

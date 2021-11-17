@@ -1,0 +1,12 @@
+/data/
+*.out
+*.ckpt
+*.bmes
+.idea/
+__pycache__
+logs/
+.vscodegit
+.ipynb_checkpoints/
+.vscode/
+*.pkl
+*.npy

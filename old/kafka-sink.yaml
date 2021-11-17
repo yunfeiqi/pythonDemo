@@ -1,0 +1,6 @@
+configs:
+    bootstrapServers: "1.kafka.adh:9092"
+    topic: "nb-EIP-AI-mas2aio_rc"
+    acks: "1"
+    batchSize: "16384"
+    maxRequestSize: "1048576"
